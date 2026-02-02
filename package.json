@@ -1,0 +1,20 @@
+{
+  "name": "codeorigin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamlesh141/codeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamlesh141/codeb/issues"
+  },
+  "homepage": "https://github.com/Kamlesh141/codeb#readme",
+  "description": ""
+}
